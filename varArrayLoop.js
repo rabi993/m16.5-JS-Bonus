@@ -12,7 +12,7 @@ function tinyFriend(tinyF){
     
     return min;
 }
-var tiny =["rabiul","masud","shariful","musfiqur","salahuddin","t2","milu","t2","rk","p2","rk"];
+var tiny =["rabiul","masud","shariful","musfiqur","t2","milu","t2","rk","p2","rk"];
 var result =tinyFriend(tiny);
 console.log('minimum name length is:',result);
 
