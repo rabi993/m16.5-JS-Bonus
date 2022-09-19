@@ -12,7 +12,9 @@ for (var i=0; i<marks.length; i++){
     
 }
 console.log('max value is:',max);
+
 // find small number
+
 var min = marks[0];
 for (var i=0; i<marks.length; i++){
     var element =marks[i];
