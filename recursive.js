@@ -9,3 +9,6 @@ function factorialrecursive(num){
     }
 
 }
+var result = factorialrecursive(5);
+console.log("result ",result);
+
